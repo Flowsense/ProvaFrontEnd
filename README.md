@@ -32,6 +32,6 @@ Saiba como usar a API em http://www.omdbapi.com
 
 ATENÇÃO: essa API gratuita tem um limite de 1000 requisições por dia. Cuidado para não usar mais do que o permitido.
 
-#Biblioteca axios:
+# Biblioteca axios:
 
 https://alligator.io/react/axios-react/
